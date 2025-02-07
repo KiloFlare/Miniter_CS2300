@@ -1,0 +1,52 @@
+addition function
+	for each row and each column
+		add each row/column in sum matrix
+
+subtraction function
+	for each row and column
+		subtract each row and column
+
+scalar function
+	for each row and column
+		multiply each number by the scalar
+
+Print the introduction to the program
+Print the options
+
+get user input
+
+while not validated input
+	if option 1
+		set math to addition
+	if 2
+		set math to subtraction
+	if 3
+		set math to multiplication by scalar
+	if 4
+		exit program
+	else
+		re-run while loop
+
+Prompt for user input for columns and rows
+
+While input isn't validated
+	check if input is two numbers 
+		if so exit loop
+		if not prompt again
+
+Once input is valid get input for first matrix
+	for each column and each row get input
+		validate input with while loop
+
+Based on math selection either prompt for input for second matrix of prompt for scalar
+	for each column and each row get input
+		validate input with while loop
+	or simply get input
+		check that input is number
+
+Print start of output
+
+Based on chosen math pick a function and print its output
+	if 1 do addition
+	if 2 do subtraction
+	if 3 do scalar multiplication
