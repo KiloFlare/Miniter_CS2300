@@ -1,0 +1,35 @@
+Outline for Main:
+    Step 1:
+    Ouput Equations
+
+    Step 2:
+    Solve matrix (REF RREF) (Function)
+
+    Step 3:
+    Get User input
+
+    Step 4:
+    Use user input to find other variables
+
+    Step 5:
+    Print variable values
+
+
+Functions: 
+    Solves REF and RREF matrix using given matrix
+        Check for libraries that can do this
+        or
+        Loop that takes given row #loop_index, * -1, + Last row -> LastRow to get REF
+        RREF???
+
+    Finding Variables from input
+        input = x1
+        equation using x1 value to find x2
+        equation using x2 value to find x3
+        ....
+        Until all are found
+        (Need Input Validation)
+        (Might as well print from inside of this function too)
+
+
+

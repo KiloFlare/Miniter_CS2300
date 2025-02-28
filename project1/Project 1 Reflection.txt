@@ -1,0 +1,3 @@
+Project 1 Reflection:
+
+I think that my code ended up being messier than I intended, if only because I used functions specifically for the calculations, or for the displaying of the matrixes, but I could've used more of them that further encapsulated the steps of the program to make it even more readable. I also think that I could have better looked at the instructions and double checked everything a few times, because I had to rewrite a portion of the multiplication part of the program after double checking the assignment parameters.
